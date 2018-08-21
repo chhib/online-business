@@ -5,6 +5,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "dotenv": "^6.0.0",
+    "firebase": "^5.4.0",
     "isomorphic-fetch": "^2.2.1",
     "next": "^6.1.1",
     "react": "^16.4.2",
